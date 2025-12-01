@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Day N Night",
+  "base_artist": "BAD HOP",
+  "createdAt": "2025-12-01T08:00:21.814876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drip Day N Night (feat. Gunna & Lil Keed)",
+      "artist": "Lil Gotit feat. Gunna & Lil Keed",
+      "has_synced": true,
+      "path": "select/01_Drip_Day_N_Night_(feat._Gunna_&_Lil_Keed)_Lil_Gotit_feat._Gunna_&_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drip Day N Night (feat. Gunna & Lil Keed)",
+      "artist": "Lil Gotit;Gunna;Lil Keed",
+      "has_synced": true,
+      "path": "select/02_Drip_Day_N_Night_(feat._Gunna_&_Lil_Keed)_Lil_Gotit;Gunna;Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day 'n' Night",
+      "artist": "Kid Cudi feat. Crookers",
+      "has_synced": false,
+      "path": "select/03_Day_'n'_Night_Kid_Cudi_feat._Crookers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day N Night (feat. Muni Long)",
+      "artist": "Afrojack feat. Black V Neck & Muni Long",
+      "has_synced": true,
+      "path": "select/04_Day_N_Night_(feat._Muni_Long)_Afrojack_feat._Black_V_Neck_&_Muni_Long.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day N Night (feat. Muni Long)",
+      "artist": "Afrojack, Black V Neck, Muni Long",
+      "has_synced": true,
+      "path": "select/05_Day_N_Night_(feat._Muni_Long)_Afrojack,_Black_V_Neck,_Muni_Long.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day N Night",
+      "artist": "Yung Redd",
+      "has_synced": false,
+      "path": "select/06_Day_N_Night_Yung_Redd.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day N Night",
+      "artist": "Maysa",
+      "has_synced": true,
+      "path": "select/07_Day_N_Night_Maysa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day N Night (Nightmare)",
+      "artist": "KiD CuDi",
+      "has_synced": false,
+      "path": "select/08_Day_N_Night_(Nightmare)_KiD_CuDi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Day N' Night",
+      "artist": "VAVO feat. ZHIKO",
+      "has_synced": false,
+      "path": "select/09_Day_N'_Night_VAVO_feat._ZHIKO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Day N' Night",
+      "artist": "Vavo; ZHIKO",
+      "has_synced": false,
+      "path": "select/10_Day_N'_Night_Vavo;_ZHIKO.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day 'N' Night",
+      "artist": "Marlon Hoffstadt feat. DJ Daddy Trance",
+      "has_synced": true,
+      "path": "select/11_Day_'N'_Night_Marlon_Hoffstadt_feat._DJ_Daddy_Trance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drip Day N Night (feat. Gunna & Lil Keed)",
+      "artist": "Lil Gotit",
+      "has_synced": true,
+      "path": "select/12_Drip_Day_N_Night_(feat._Gunna_&_Lil_Keed)_Lil_Gotit.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day N Night",
+      "artist": "KNK",
+      "has_synced": true,
+      "path": "select/13_Day_N_Night_KNK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Day 'n' Night",
+      "artist": "Kid Cudi feat. Crookers",
+      "has_synced": false,
+      "path": "select/14_Day_'n'_Night_Kid_Cudi_feat._Crookers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Day n' Night",
+      "artist": "Stevie B",
+      "has_synced": false,
+      "path": "select/15_Day_n'_Night_Stevie_B.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Long Day n Night",
+      "artist": "Afrojack & Black V Neck feat. Muni",
+      "has_synced": true,
+      "path": "select/16_Long_Day_n_Night_Afrojack_&_Black_V_Neck_feat._Muni.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Day 'N' Night",
+      "artist": "Kid Cudi, Crookers",
+      "has_synced": true,
+      "path": "select/17_Day_'N'_Night_Kid_Cudi,_Crookers.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Day N' Night",
+      "artist": "AHTI",
+      "has_synced": true,
+      "path": "select/18_Day_N'_Night_AHTI.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lil Gotit - Drip Day N Night ft Gunna & Lil Keed (prod. 10fifty) (Visualizer)",
+      "artist": "Lil Gotit",
+      "has_synced": true,
+      "path": "select/19_Lil_Gotit_-_Drip_Day_N_Night_ft_Gunna_&_Lil_Keed_(prod._10fifty)_(Visualizer)_Lil_Gotit.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "365 DAY 'N' NIGHT",
+      "artist": "Tream",
+      "has_synced": true,
+      "path": "select/20_365_DAY_'N'_NIGHT_Tream.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day 'N' Night feat. MADz's",
+      "artist": "K",
+      "has_synced": false,
+      "path": "select/pl_01_Day_'N'_Night_feat._MADz's_K.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Day 'N' Night feat. MADz's",
+      "artist": "K",
+      "has_synced": false,
+      "path": "select/pl_02_Day_'N'_Night_feat._MADz's_K.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Day N Night (feat. Muni Long)",
+      "artist": "K",
+      "has_synced": false,
+      "path": "select/pl_03_Day_N_Night_(feat._Muni_Long)_K.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "DAY N NIGHT",
+      "artist": "K",
+      "has_synced": false,
+      "path": "select/pl_04_DAY_N_NIGHT_K.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "day n night",
+      "artist": "K",
+      "has_synced": false,
+      "path": "select/pl_05_day_n_night_K.txt"
+    }
+  ]
+}
